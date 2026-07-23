@@ -1,5 +1,7 @@
 # Attogram Games website builder
 
+Part of the [Attogram Corpus](https://github.com/attogram)
+
 Your own games website, filled with open source goodness!
 
 [![Games Website](https://raw.githubusercontent.com/attogram/attogram-docs/master/games/games.png)](https://github.com/attogram/games)
